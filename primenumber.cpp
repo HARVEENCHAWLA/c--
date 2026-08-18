@@ -13,7 +13,7 @@ int main(){
         cout<<"it is a prime number"<<endl;
     }
     else{
-         cout<<"it is not a prime number"<<<endl;
+         cout<<"it is not a prime number"<<endl;
     }
     return 0;
 }
